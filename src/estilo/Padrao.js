@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native'
-import Padrao from '../estilo/Padrao'
+
 export default StyleSheet.create({
     ex: {
         paddingHorizontal: 15,
